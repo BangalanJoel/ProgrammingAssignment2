@@ -1,7 +1,7 @@
 ## These two functions are used in conjunction with each other to
 ## simplify matrix inversion computations where needed. 
 ## The first function caches a list of matrix operations, while the
-## second returns the inverse of a matrix (both for a given invertible ## matrix) 
+## second returns the inverse of a matrix (both for a given invertible matrix) 
 
 
 ## The makeCacheMatrix function creates a cached list of matrix operations, 
